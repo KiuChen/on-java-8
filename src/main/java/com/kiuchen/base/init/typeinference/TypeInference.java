@@ -1,4 +1,4 @@
-package com.kiuchen.base.typeinference;
+package com.kiuchen.base.init.typeinference;
 
 // 类型推断
 public class TypeInference {

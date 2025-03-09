@@ -1,4 +1,4 @@
-package com.kiuchen.base.aboutstatic;
+package com.kiuchen.base.init.aboutstatic;
 
 /**
  * 对象创建过程：

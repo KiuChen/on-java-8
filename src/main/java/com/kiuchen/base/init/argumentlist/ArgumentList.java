@@ -1,4 +1,4 @@
-package com.kiuchen.base.argumentlist;
+package com.kiuchen.base.init.argumentlist;
 
 public class ArgumentList {
     public static void main(String[] args) {

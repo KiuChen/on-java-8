@@ -1,4 +1,4 @@
-package com.kiuchen.base.aboutstatic;
+package com.kiuchen.base.init.aboutstatic;
 
 /**
  * 非静态实例初始化

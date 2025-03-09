@@ -1,4 +1,4 @@
-package com.kiuchen.base.collectmethod;
+package com.kiuchen.base.init.collectmethod;
 
 public class Book {
     boolean checkedOut = false;
